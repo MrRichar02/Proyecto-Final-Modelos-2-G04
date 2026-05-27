@@ -11,7 +11,7 @@
 
 ## Archivos más importantes dentro del repositorio
 
-`reporte proyecto.pdf`: Este es el archivo pdf donde se encuentra el reporte acerca del proyecto.
+`reporte proyecto final modelos 2.pdf`: Este es el archivo pdf donde se encuentra el reporte acerca del proyecto.
 
 `desarrollo-proyecto.ipynb`: Dentro de este notebook se encuentra todo el desarrollo que se realizó para el proyecto, está dividido en varios partes:
 
