@@ -7,6 +7,8 @@
 - Ricardo Medina Herrera
 - Santiago Villegas Naranjo
 
+# [Link video sustentación](https://youtu.be/5NhGMQ8yKJg)
+
 ## Archivos más importantes dentro del repositorio
 
 `reporte proyecto.pdf`: Este es el archivo pdf donde se encuentra el reporte acerca del proyecto.
